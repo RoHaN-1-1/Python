@@ -29,7 +29,9 @@ This repo is organized into three main folders:
 
 * RohanML:
   Contains all Machine Learning learning
+
   RF = Random Forest
+
   GD = Gradient Descent
 * Leetcode:
   All leetcode questions I have completed
